@@ -1,0 +1,1 @@
+digitSum(n//10)
